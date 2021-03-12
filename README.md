@@ -14,8 +14,6 @@ Rome is designed to replace Babel, ESLint, webpack, Prettier, Jest, and others.
 Rome unifies functionality that has previously been separate tools. Building upon a shared base allows us to provide a cohesive experience for processing code, displaying errors, parallelizing work, caching, and configuration.
 
 
-
-
 ## Official
 
 - [Website](https://rome.tools/)
