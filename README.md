@@ -18,6 +18,7 @@ Rome unifies functionality that has previously been separate tools. Building upo
 
 - [Official](#official)
 - [Blog](#blog)
+- [Contribute](#contribute)
 
 ## Official
 
@@ -34,4 +35,3 @@ Rome unifies functionality that has previously been separate tools. Building upo
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
