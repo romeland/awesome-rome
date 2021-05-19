@@ -19,15 +19,14 @@ Rome unifies functionality that has previously been separate tools. Building upo
 - [Official](#official)
 - [Blog](#blog)
 
-
-### Official
+## Official
 
 - [Website](https://rome.tools/)
 - [Repository](https://github.com/rome/tools)
 - [Discord](https://discord.com/invite/9WxHa5d)
 - [Twitter](https://twitter.com/romefrontend)
 
-### Blog
+## Blog
 
 - [Rome - A JavaScript toolchain](https://dev.to/rajikaimal/rome-a-javascript-toolchain-pad)
 
